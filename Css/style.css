@@ -1,0 +1,135 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+.title{
+    width: 15%;
+}
+.title a{
+    padding: 6px;
+}
+
+.aaa{
+
+    width: 85%;
+    padding: 5px 0;
+    padding-left: 10px;
+}
+
+.title a{
+    padding: 0px 0px;
+    float: left;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+    padding: 16.5px;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.aaa a{
+
+    float: right;
+    text-decoration: none;
+    color: white;
+    padding: 16.5px;
+    
+}
+
+.all{
+
+padding: 30px;
+background-color: black;    
+}
+
+
+
+h1{
+    font-size: 2rem;
+}
+body{
+    font-size: 17px;
+}
+
+
+
+
+.first
+{
+    background-color: #247bfc;
+    padding: 6rem 0;
+    text-align: center;
+    color: white;
+}
+.first h1
+{
+    margin: 5px 0;
+    font-size: 40px;
+}
+
+.first p
+{
+    margin: 1rem 0;
+    font-size: 23px;
+}
+
+.first a
+{
+    color: #fff;
+    font-size: 40px;
+    text-decoration: none;
+
+}
+.second{
+    padding-bottom: 14%;
+}
+
+.second h1
+{
+    padding: 139px 272px 20px;
+    font-size: 34px;
+
+}
+.second p
+{
+    padding: 10px 272px;
+    font-size: 18px;
+
+}
+
+.second ul
+{
+    padding: 24px 297px;
+}
+
+.third
+{
+    background-color:#f8f9fa;
+    padding: 139px 272px 11rem;
+}
+.third h1
+{
+   
+}
+
+.fourth{
+    padding-bottom: 14%;
+    padding: 139px 272px 11rem;
+}
+
+.fifth h3{
+
+    margin: 0 30rem;
+
+
+    color: white;
+}
+.fifth{
+
+    background-color: black;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
